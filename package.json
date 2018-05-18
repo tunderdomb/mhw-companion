@@ -1,0 +1,14 @@
+{
+  "name": "mhw-companion",
+  "version": "0.0.1",
+  "description": "Monster Hunter World companion",
+  "main": "index.js",
+  "repository": "https://github.com/tunderdomb/mhw-companion.git",
+  "author": "tunderdomb <tunderdomb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^6.0.1",
+    "simplecrawler": "^1.1.6"
+  }
+}
