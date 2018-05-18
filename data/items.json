@@ -1,0 +1,4226 @@
+[
+  {
+    "name": "Ace Hunter Coin",
+    "description": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Adamant Pill",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Adamant Seed",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Advanced Armor Sphere",
+    "description": "Reacts uniquely to heat. Fuse this to armor to improve it.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Ancient Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Ancient Potion",
+    "description": "Fully restores health and maximizes the size of your Health and Stamina Gauges.",
+    "buy": 345,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 5
+  },
+  {
+    "name": "Anjanath Fang+",
+    "description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Fang",
+    "description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Gem",
+    "description": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Nosebone+",
+    "description": "Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Nosebone",
+    "description": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Pelt+",
+    "description": "Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Pelt",
+    "description": "Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Plate",
+    "description": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Scale+",
+    "description": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Scale",
+    "description": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Anjanath Tail",
+    "description": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Antidote Herb",
+    "description": "A primary ingredient in antidotes.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Antidote",
+    "description": "A cure for poison.",
+    "buy": 6,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Aqua Sac",
+    "description": "A monster organ designed to hold and preserve water.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Aquacore Ore",
+    "description": "A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Armor Sphere+",
+    "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Armor Sphere",
+    "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Armorcharm",
+    "description": "An amulet that increases defense. Just carrying this hardens your skin like stone.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 5
+  },
+  {
+    "name": "Armorskin",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Armortalon",
+    "description": "A charm that increases defense. Its effects are amplified by the dragon parts it contains.",
+    "buy": 5,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 5
+  },
+  {
+    "name": "Arowana Bait",
+    "description": "A ball of bait favored by fish of the Arowana family.",
+    "buy": 15,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Astera Jerky",
+    "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+    "buy": 10,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Azure Rathalos Carapace",
+    "description": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Azure Rathalos Scale+",
+    "description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Azure Rathalos Tail",
+    "description": "Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Azure Rathalos Wing",
+    "description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Azure Star Shard",
+    "description": "Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Baitbug",
+    "description": "An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Barnos Hide+",
+    "description": "Rare Barnos material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barnos Talon",
+    "description": "Rare Barnos material. Obtained by carving. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barrel Bomb",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Carapace",
+    "description": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Claw+",
+    "description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Claw",
+    "description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Coin",
+    "description": "A coin given to those who have bested a Barroth in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Ridge+",
+    "description": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Ridge",
+    "description": "Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Scalp",
+    "description": "Barroth material. Obtained by breaking its scalp. Tough, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Shell",
+    "description": "Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Barroth Tail",
+    "description": "Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Carapace",
+    "description": "Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Fuse",
+    "description": "Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Gem",
+    "description": "A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Scale+",
+    "description": "Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Tail",
+    "description": "Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Talon",
+    "description": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bazelgeuse Wing",
+    "description": "Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Beautiful Scale",
+    "description": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bhernastone",
+    "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Binoculars",
+    "description": "Allows you to see farther and observe from a distance.",
+    "buy": 5,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 1
+  },
+  {
+    "name": "Bird Wyvern Gem",
+    "description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bitterbug",
+    "description": "A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Black Bandage",
+    "description": "Cloth made from the glossy black hide of a monster. Not obtainable by normal means.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Black Crystal Ticket",
+    "description": "A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Black Diablos Carapace",
+    "description": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Black Diablos Ridge+",
+    "description": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Black Spiral Horn+",
+    "description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Blastnut",
+    "description": "A nut used to make sticky ammo.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 30,
+    "rarity": 1
+  },
+  {
+    "name": "Blazenut",
+    "description": "Used to make gunpowder that greatly increases ammo firepower.",
+    "buy": 12,
+    "sell": 0,
+    "carry": 60,
+    "rarity": 2
+  },
+  {
+    "name": "Blos Medulla",
+    "description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Blue Mushroom",
+    "description": "A mushroom infused with power-enhancing effects. Used in restorative items.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Bomb Arowana Scale",
+    "description": "The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.",
+    "buy": 135,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Bomberry",
+    "description": "A nut that ruptures on impact. Used to make cluster bombs.",
+    "buy": 12,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Boomerang",
+    "description": "An unusually-shaped weapon from abroad that returns to its user when thrown.",
+    "buy": 15,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Boulder Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Bounce Bomb",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Brutal Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Brute Coin",
+    "description": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Burnt Meat",
+    "description": "Provides a small boost to your stamina. Can be eaten quickly.",
+    "buy": 1,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Burst Arowana Scale",
+    "description": "The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Carbalite Ore",
+    "description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Catalyst",
+    "description": "Works with other materials to enhance their effects. Cannot be used by itself.",
+    "buy": 48,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Chillshroom",
+    "description": "This mushroom is a primary ingredient in cool drinks.",
+    "buy": 18,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Chipped Scale",
+    "description": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Coma Sac",
+    "description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Commendation",
+    "description": "A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Cool Drink",
+    "description": "Provides temporary relief from extreme heat.",
+    "buy": 30,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 1
+  },
+  {
+    "name": "Coral Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Coral Crystal",
+    "description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Carapace",
+    "description": "Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Claw+",
+    "description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Dragon Scale+",
+    "description": "Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Gem",
+    "description": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Horn+",
+    "description": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Tail",
+    "description": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Daora Webbing",
+    "description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dash Extract",
+    "description": "A mysterious substance culled from certain monsters that increases endurance.",
+    "buy": 56,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 4
+  },
+  {
+    "name": "Dash Juice",
+    "description": "Dulls one's sense of exhaustion. Reduces stamina depletion for a time.",
+    "buy": 29,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Deceased Scale",
+    "description": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deluxe First Wyverian Print",
+    "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Demon Powder",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Demondrug",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Gem",
+    "description": "A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Hide",
+    "description": "Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Saliva",
+    "description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Scale",
+    "description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Scalp",
+    "description": "Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Tail",
+    "description": "Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Tallfang",
+    "description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Deviljho Talon",
+    "description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Devil's Blight",
+    "description": "A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.",
+    "buy": 60,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Diablos Carapace",
+    "description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Fang",
+    "description": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Marrow",
+    "description": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Ridge+",
+    "description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Ridge",
+    "description": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Shell",
+    "description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Diablos Tailcase",
+    "description": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dodogama Hide+",
+    "description": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dodogama Jaw",
+    "description": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dodogama Scale+",
+    "description": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dodogama Tail",
+    "description": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dodogama Talon",
+    "description": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dragonbone Relic",
+    "description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dragoncore Ore",
+    "description": "A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dragonfell Berry",
+    "description": "A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",
+    "buy": 78,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 4
+  },
+  {
+    "name": "Dragonite Ore",
+    "description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dragonstrike nut",
+    "description": "A nut that explodes on impact. Used to make wyvern ammo.",
+    "buy": 12,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Dragonvein Crystal",
+    "description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dreamcore Ore",
+    "description": "A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Drugged Meat",
+    "description": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
+    "buy": 32,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Dundormarin",
+    "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Dung Pod",
+    "description": "Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.",
+    "buy": 20,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Dung",
+    "description": "Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.",
+    "buy": 1,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Earth Crystal",
+    "description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Elder Dragon Blood",
+    "description": "Contains an unknown compound. The object of much scholarly research.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Elder Dragon Bone",
+    "description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Electro Sac",
+    "description": "A monster organ that can store up electricity, which is released on impact.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Empty Phial",
+    "description": "A regularly old empty phial. Nothing more, nothing less.",
+    "buy": 1,
+    "sell": 0,
+    "carry": 99,
+    "rarity": 1
+  },
+  {
+    "name": "Energy Drink",
+    "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
+    "buy": 6,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Exciteshroom",
+    "description": "This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.",
+    "buy": 18,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Farcaster",
+    "description": "Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.",
+    "buy": 30,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 3
+  },
+  {
+    "name": "Fertile Mud",
+    "description": "Barroth material. Obtained by breaking its mud covering Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Fire Dragon Scale+",
+    "description": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Fire Herb",
+    "description": "A wondrous, flammable plant. Useful for crafting explosives.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 2
+  },
+  {
+    "name": "Firecell Stone",
+    "description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "First Wyverian Print",
+    "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Flame Sac",
+    "description": "A monster organ filled with flammable powder. Handle with extreme care.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Flamenut",
+    "description": "Used to make gunpowder that increases ammo firepower.",
+    "buy": 12,
+    "sell": 0,
+    "carry": 80,
+    "rarity": 2
+  },
+  {
+    "name": "Flash Pod",
+    "description": "Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.",
+    "buy": 57,
+    "sell": 0,
+    "carry": 3,
+    "rarity": 2
+  },
+  {
+    "name": "Flashbug",
+    "description": "An insect that emits a powerful flash when it dies. Required to craft Flash Pods.",
+    "buy": 48,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Flowfern",
+    "description": "This plant's leaves store a great amount of water. A component for making Water Ammo.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 1
+  },
+  {
+    "name": "Flying Coin",
+    "description": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Freezer Sac",
+    "description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Frost Sac",
+    "description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Fucium Ore",
+    "description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gajalaka Sketch",
+    "description": "Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gajau Scale",
+    "description": "Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gajau Skin",
+    "description": "Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gajau Whisker",
+    "description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gama Coin",
+    "description": "A coin given to those who have bested a Dodogama in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gastodon Carapace",
+    "description": "Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gastodon Horn",
+    "description": "Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gilded Scale+",
+    "description": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gilded Scale",
+    "description": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Girros Fang",
+    "description": "Girros material. Obtained by carving. Grants paralytic properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Girros Hide+",
+    "description": "Rare Girros material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Girros Hide",
+    "description": "Girros material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Girros Scale+",
+    "description": "Rare Girros material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Girros Scale",
+    "description": "Girros material. Obtained by carving Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Gleaming Streamstone",
+    "description": "A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Glimmering Scale",
+    "description": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Glowing Feystone",
+    "description": "A jewel that conceals an unknown power within it. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Godbug",
+    "description": "An insect said to live a millennium. Combine it with other items to add their properties to the powder.",
+    "buy": 120,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 4
+  },
+  {
+    "name": "Gold Wyverian Print",
+    "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Golden Egg",
+    "description": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Golden Scale+",
+    "description": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Golden Scale",
+    "description": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Goldenfish Bait",
+    "description": "A ball of bait favored by fish of the Goldenfish family.",
+    "buy": 30,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Grand Gajau Whisker",
+    "description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Bomb Arowana Scale",
+    "description": "The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.",
+    "buy": 135,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Great Burst Arowana Scale",
+    "description": "The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Great Girros Fang+",
+    "description": "Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Fang",
+    "description": "Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Hide+",
+    "description": "Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Hide",
+    "description": "Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Hood+",
+    "description": "Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Hood",
+    "description": "Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Scale+",
+    "description": "Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Scale",
+    "description": "Great Girros material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Girros Tail",
+    "description": "Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Gunpowderfish Scale",
+    "description": "The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.",
+    "buy": 150,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Great Hornfly",
+    "description": "Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Claw+",
+    "description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Claw",
+    "description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Hide+",
+    "description": "Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Hide",
+    "description": "Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Mane",
+    "description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Scale+",
+    "description": "Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Jagras Scale",
+    "description": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Great Sushifish Scale",
+    "description": "Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Gunpowder Level 2",
+    "description": "Combustible powser. Combine with level 1 ammo to raise its level.",
+    "buy": 1,
+    "sell": 0,
+    "carry": 80,
+    "rarity": 2
+  },
+  {
+    "name": "Gunpowder",
+    "description": "A dangerous substance that explodes when struct or heated.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 2
+  },
+  {
+    "name": "Gunpowderfish Bait",
+    "description": "A ball of bait favored by fish of the Gunpowderfish family.",
+    "buy": 15,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Gunpowderfish Scale",
+    "description": "The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.",
+    "buy": 150,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 3
+  },
+  {
+    "name": "Gunpowser Level 3",
+    "description": "Highly combustible powser. Combine with level 1 ammo to raise its level.",
+    "buy": 3,
+    "sell": 0,
+    "carry": 80,
+    "rarity": 2
+  },
+  {
+    "name": "Hard Armor Sphere",
+    "description": "Reacts uniquely to heat. Fuse this to armor to significantly improve it.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hardshell Powder",
+    "description": "A mysterious powder that produces a cloud around the area that temporarily strengthens defense.",
+    "buy": 315,
+    "sell": 0,
+    "carry": 3,
+    "rarity": 4
+  },
+  {
+    "name": "Heavy Armor Sphere",
+    "description": "Reacts uniquely to heat. Fuse this to armor to greatly improve it.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Herb",
+    "description": "A primary ingredient in potions.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Herbal Medicine",
+    "description": "Removes all traces of poison and restores a slight amount of health.",
+    "buy": 25,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Herbal Powder",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Axe",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Blade",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Hammer",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Lance",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Ranged",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Shaft",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hero's Streamstone: Sword",
+    "description": "A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "High Commendation",
+    "description": "A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "High-quality Pelt",
+    "description": "Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Honey",
+    "description": "Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Hornetaur Carapace",
+    "description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hornetaur Head",
+    "description": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hornetaur Innerwing",
+    "description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hornetaur Shell",
+    "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hornetaur Wing",
+    "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Hunter King Coin",
+    "description": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Immortal Dragonscale",
+    "description": "Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Immunizer",
+    "description": "Boosts your natural ability to heal.",
+    "buy": 92,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Inferno Sac",
+    "description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Iron Ore",
+    "description": "Ore that can be smelted into metal and used for many different purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Ivy",
+    "description": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
+    "buy": 8,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Jagras Hide+",
+    "description": "Rare Jagras material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jagras Hide",
+    "description": "Jagras material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jagras Scale+",
+    "description": "Rare Jagras material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jagras Scale",
+    "description": "Jagras material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Carapace",
+    "description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Fang+",
+    "description": "Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Fang",
+    "description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Fin+",
+    "description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Fin",
+    "description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Scale+",
+    "description": "Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Scale",
+    "description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Jyuratodus Shell",
+    "description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kelbi Horn",
+    "description": "While not practical when forging equipment, Kelbi horns are a vital component of many items.",
+    "buy": 52,
+    "sell": 0,
+    "carry": 99,
+    "rarity": 4
+  },
+  {
+    "name": "Kestodon Carapace",
+    "description": "Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kestodon Scalp",
+    "description": "Kestodon material. Obtained by carving. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kestodon Shell",
+    "description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Azure Horn",
+    "description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Hide+",
+    "description": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Hide",
+    "description": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Mane",
+    "description": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Tail",
+    "description": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Thunderhorn",
+    "description": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kirin Thundertail",
+    "description": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu Coin",
+    "description": "A coin given to those who have bested a Kulu-Ya-Ku in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Beak+",
+    "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Beak",
+    "description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Hide+",
+    "description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Hide",
+    "description": "Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Plume+",
+    "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Plume",
+    "description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Scale+",
+    "description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Scale",
+    "description": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Kulu-Ya-Ku Ticket",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Large Barrel Bomb",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Large Barrel",
+    "description": "A large, empty barrel. Combine with gunpowser to make it into a bomb.",
+    "buy": 21,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Large Scale",
+    "description": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Latchberry",
+    "description": "A nut that bears a spiral groove. Used to make pierce ammo.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 99,
+    "rarity": 1
+  },
+  {
+    "name": "Lava Nugget",
+    "description": "A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lavasioth Carapace",
+    "description": "Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lavasioth Fang+",
+    "description": "Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lavasioth Fin+",
+    "description": "Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lavasioth Scale+",
+    "description": "Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Claw+",
+    "description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Claw",
+    "description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Gem",
+    "description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Hide+",
+    "description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Hide",
+    "description": "Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Plate",
+    "description": "Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Scale+",
+    "description": "Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Scale",
+    "description": "Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Tail Webbing",
+    "description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Webbing",
+    "description": "Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Legiana Wing",
+    "description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lifepowder",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lightcrystal",
+    "description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Loc Lac Ore",
+    "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Lustrous Scale",
+    "description": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Machalite Ore",
+    "description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Majestic Horn",
+    "description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mandragora",
+    "description": "A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.",
+    "buy": 40,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Master Craftsman's Blueprint",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Max Potion",
+    "description": "Fully restores health and maximizes the size of your Health Gauge.",
+    "buy": 210,
+    "sell": 0,
+    "carry": 2,
+    "rarity": 3
+  },
+  {
+    "name": "Mega Armorskin",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mega Barrel Bomb",
+    "description": "An upgraded large barrel bomb. Effective against large monsters.",
+    "buy": 80,
+    "sell": 0,
+    "carry": 2,
+    "rarity": 4
+  },
+  {
+    "name": "Mega Bounce Bomb",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mega Dash Juice",
+    "description": "Lets you dash without tiring for longer than regular dash juice does.",
+    "buy": 205,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 3
+  },
+  {
+    "name": "Mega Demondrug",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mega Nutrients",
+    "description": "Slightly increases your maximum health level.",
+    "buy": 92,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 3
+  },
+  {
+    "name": "Mega Potion",
+    "description": "Restores a moderate amount of health.",
+    "buy": 2,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Might Pill",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Might Seed",
+    "description": "Temporarily strengthens your attacks when ingested by improving energy flow.",
+    "buy": 140,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Minegardenite",
+    "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Bone L",
+    "description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Bone M",
+    "description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Bone+",
+    "description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Bone S",
+    "description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Broth",
+    "description": "Material from high rank insects. A rich broth made from only the thickest of monster juices.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Fluid",
+    "description": "Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Hardbone",
+    "description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Monster Keenbone",
+    "description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mosswine Hide",
+    "description": "A musty hide covered in moss.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Mysterious Feystone",
+    "description": "A jewel that conceals faint traces of power within it. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Needleberry",
+    "description": "A nut covered in needle-like spines. Used to make spread ammo.",
+    "buy": 1,
+    "sell": 0,
+    "carry": 99,
+    "rarity": 1
+  },
+  {
+    "name": "Nergigante Carapace",
+    "description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nergigante Gem",
+    "description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nergigante Horn+",
+    "description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nergigante Regrowth Plate",
+    "description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nergigante Tail",
+    "description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nergigante Talon",
+    "description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Net",
+    "description": "A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.",
+    "buy": 54,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Nitroshroom",
+    "description": "A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.",
+    "buy": 6,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 2
+  },
+  {
+    "name": "Nora Brave Trophy",
+    "description": "Proof that you have completed the Proving. Grants you the right to craft special equipment.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nourishing Extract",
+    "description": "Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.",
+    "buy": 122,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 4
+  },
+  {
+    "name": "Nova Brave Trophy",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Novacrystal",
+    "description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Nulberry",
+    "description": "A mysterious berry that cures various blights.",
+    "buy": 120,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Nutrients",
+    "description": "Very slightly increases your maximum health level.",
+    "buy": 25,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Odogaron Claw+",
+    "description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Claw",
+    "description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Fang+",
+    "description": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Fang",
+    "description": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Gem",
+    "description": "A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Plate",
+    "description": "Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Scale+",
+    "description": "Rare Odogaron material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Scale",
+    "description": "Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Sinew+",
+    "description": "Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Sinew",
+    "description": "Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Odogaron Tail",
+    "description": "Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Omniplegia Sac",
+    "description": "A monster organ filled with potent neurotoxins. A single touch can cause paralysis.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Carapace+",
+    "description": "Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Pelt+",
+    "description": "Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Pelt",
+    "description": "Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Scale+",
+    "description": "Rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Scale",
+    "description": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Shell",
+    "description": "Paolumu material. Obtained by breaking its tail. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Webbing",
+    "description": "Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paolumu Wing",
+    "description": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Paralysis Sac",
+    "description": "A monster organ that contains paralyzing neurotoxins.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Parashroom",
+    "description": "A mushroom that induces paralysis. Required to craft Tranq Bombs.",
+    "buy": 15,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 3
+  },
+  {
+    "name": "Piercing Claw",
+    "description": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pink Rathian Carapace",
+    "description": "Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pink Rathian Scale+",
+    "description": "Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pinnacle Coin",
+    "description": "A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pitfall Trap",
+    "description": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
+    "buy": 200,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 3
+  },
+  {
+    "name": "Platinum Scale+",
+    "description": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Platinum Scale",
+    "description": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Poison Sac",
+    "description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Poison Smoke Bomb",
+    "description": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
+    "buy": 60,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 2
+  },
+  {
+    "name": "Poisoned Meat",
+    "description": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
+    "buy": 19,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Potion",
+    "description": "Restores a small amount of health.",
+    "buy": 8,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Powercharm",
+    "description": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
+    "buy": 3,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 5
+  },
+  {
+    "name": "Powertalon",
+    "description": "A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.",
+    "buy": 6,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 5
+  },
+  {
+    "name": "Pukei Coin",
+    "description": "A coin given to those who have bested a Pukei-Pukei in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Carapace",
+    "description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Quill",
+    "description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Sac+",
+    "description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Sac",
+    "description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Scale+",
+    "description": "Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Scale",
+    "description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Shell",
+    "description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Tail",
+    "description": "Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Pukei-Pukei Wing",
+    "description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Quality Bone",
+    "description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Carapace",
+    "description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Marrow",
+    "description": "Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Medulla",
+    "description": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Oilshell",
+    "description": "Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Scale+",
+    "description": "Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Scale",
+    "description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Radobaan Shell",
+    "description": "Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rare Steak",
+    "description": "Provides a moderate boost to your stamina. This one's still red in the middle.",
+    "buy": 3,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Rath Wingtalon",
+    "description": "Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Carapace",
+    "description": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Coin",
+    "description": "A coin given to those who have bested a Rathalos in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Marrow",
+    "description": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Medulla",
+    "description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Plate",
+    "description": "Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Ruby",
+    "description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Scale+",
+    "description": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Scale",
+    "description": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Shell",
+    "description": "Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Tail",
+    "description": "Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Webbing",
+    "description": "Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathalos Wing",
+    "description": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Carapace",
+    "description": "Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Coin",
+    "description": "A coin given to those who have bested a Rathian in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Plate",
+    "description": "Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Ruby",
+    "description": "A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Scale+",
+    "description": "Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Scale",
+    "description": "Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Shell",
+    "description": "Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Spike+",
+    "description": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Spike",
+    "description": "Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rathian Webbing",
+    "description": "Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Ration",
+    "description": "Food that restores a bit of stamina.",
+    "buy": 3,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Raw Meat",
+    "description": "Meat carved from a monster. Can be cooked, combined, or used to set a trap.",
+    "buy": 5,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Research Commission Ticket",
+    "description": "A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Rolled-up Dung",
+    "description": "A ball of condensed monster dung. Used to make dung pods for your slinger.",
+    "buy": 10,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 1
+  },
+  {
+    "name": "Screamer Pod",
+    "description": "Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 3,
+    "rarity": 2
+  },
+  {
+    "name": "Screamer Sac",
+    "description": "A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.",
+    "buy": 15,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "SFV Ticket",
+    "description": "A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shamos Hide+",
+    "description": "Rare Shamos material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shamos Hide",
+    "description": "Shamos material. Obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shamos Scale+",
+    "description": "Rare Shamos material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shamos Scale",
+    "description": "Shamos material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Sharp Claw",
+    "description": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shining Streamstone",
+    "description": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Shock Trap",
+    "description": "A trap that immobilizes a target. Use it to capture monsters.",
+    "buy": 160,
+    "sell": 0,
+    "carry": 1,
+    "rarity": 3
+  },
+  {
+    "name": "Silver Egg",
+    "description": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Silver Wyverian Print",
+    "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Sinister Cloth",
+    "description": "Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Slashberry",
+    "description": "Used to make slicing ammo.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 60,
+    "rarity": 1
+  },
+  {
+    "name": "Sleep Herb",
+    "description": "A plant containing sleeping agents. Used to craft tranquilizers.",
+    "buy": 5,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Sleep Sac",
+    "description": "A monster organ that contains a knockout powder capable of inducing sleep.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Small Barrel",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Smoke Bomb",
+    "description": "Creates a large cloud of smoke wherever it lands.",
+    "buy": 44,
+    "sell": 0,
+    "carry": 3,
+    "rarity": 2
+  },
+  {
+    "name": "Smokenut",
+    "description": "A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.",
+    "buy": 4,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Snow Herb",
+    "description": "A plant that radiates ice-cold air. Use in combinations to create freeze ammo.",
+    "buy": 6,
+    "sell": 0,
+    "carry": 20,
+    "rarity": 2
+  },
+  {
+    "name": "Spider Web",
+    "description": "A very sticky web. Used to craft pitfall traps.",
+    "buy": 6,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 1
+  },
+  {
+    "name": "Spiritcore Ore",
+    "description": "A valuable mineral used to create charms. Gives off a warm, sunny glow.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Spring Blossom Ticket",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Spring Insect Field Guide",
+    "description": "",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Steel Egg",
+    "description": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Steel Wyverian Print",
+    "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Streamstone Shard",
+    "description": "A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Streamstone",
+    "description": "A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Sturdy Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Sullied Streamstone",
+    "description": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Sushifish Scale",
+    "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Tailraider Voucher",
+    "description": "Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Carapace",
+    "description": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Claw+",
+    "description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Gem",
+    "description": "A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Horn+",
+    "description": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Mane",
+    "description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Powder",
+    "description": "Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Tail",
+    "description": "Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Teostra Webbing",
+    "description": "Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Thunder Sac",
+    "description": "A monster organ that can store up large amounts of high voltage electricity.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Thunderbug",
+    "description": "An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.",
+    "buy": 80,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 4
+  },
+  {
+    "name": "Tinged Meat",
+    "description": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
+    "buy": 30,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Toadstool",
+    "description": "A poisonous fungus. Can be used as a toxin for knives.",
+    "buy": 8,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Tobi-Kadachi Claw+",
+    "description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Claw",
+    "description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Electrode+",
+    "description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Electrode",
+    "description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Membrane",
+    "description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Pelt+",
+    "description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Pelt",
+    "description": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Scale+",
+    "description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tobi-Kadachi Scale",
+    "description": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Torrent Sac",
+    "description": "A monster organ designed to hold and preserve copious amounts of water.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Toxin Sac",
+    "description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tranq Bomb",
+    "description": "A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.",
+    "buy": 35,
+    "sell": 0,
+    "carry": 8,
+    "rarity": 3
+  },
+  {
+    "name": "Trap Tool",
+    "description": "A must-have item for putting together pitfall traps and other kinds of traps.",
+    "buy": 20,
+    "sell": 0,
+    "carry": 2,
+    "rarity": 3
+  },
+  {
+    "name": "Twisted Horn",
+    "description": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi Coin",
+    "description": "A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Claw+",
+    "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Claw",
+    "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Hide+",
+    "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Hide",
+    "description": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Photophore+",
+    "description": "Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Photophore",
+    "description": "Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Scale+",
+    "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Tzitzi-Ya-Ku Scale",
+    "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Unknown Skull",
+    "description": "A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Carapace",
+    "description": "Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Jaw",
+    "description": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Marrow",
+    "description": "Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Ruby",
+    "description": "A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Scale+",
+    "description": "Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Uragaan Scute",
+    "description": "Rare Uragaan material. Obtained by carving its severed tail. Highly heat resistant, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Carapace",
+    "description": "Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Fang+",
+    "description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Gem",
+    "description": "A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Membrane",
+    "description": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Tail",
+    "description": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Talon",
+    "description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vaal Hazak Wing",
+    "description": "Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Val Habar Quartz",
+    "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vespoid Carapace",
+    "description": "Rare Vespoid material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vespoid Innerwing",
+    "description": "Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vespoid Shell",
+    "description": "Vespoid material. Obtained by carving. Used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Vespoid Wing",
+    "description": "Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Voucher",
+    "description": "Redeem this for a special meal with stronger effects than usual.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warm Pelt",
+    "description": "A pelt from a small animal. Used for many things, but mostly just regular clothes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warped Bone",
+    "description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warped Feystone",
+    "description": "A jewel that conceals a mystical power within it. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Axe",
+    "description": "A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Blade",
+    "description": "A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Hammer",
+    "description": "A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Lance",
+    "description": "A material used by champions of old. Used to bring out the hidden power in lances and gunlances.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Ranged",
+    "description": "A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Shaft",
+    "description": "A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Warrior's Streamstone: Sword",
+    "description": "A material used by champions of old. Used to bring out the hidden power in long swords and great swords.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Watcher Lens",
+    "description": "Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Well-done Steak",
+    "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+    "buy": 48,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Whetfish Fin+",
+    "description": "A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 5,
+    "rarity": 4
+  },
+  {
+    "name": "Whetfish Fin",
+    "description": "A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",
+    "buy": 45,
+    "sell": 0,
+    "carry": 10,
+    "rarity": 2
+  },
+  {
+    "name": "Wiggler Ticket",
+    "description": "A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Wingdrake Hide+",
+    "description": "A rare material carved from wingdrakes. Lightweight and often used when crafting armor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Wingdrake Hide",
+    "description": "A material carved from wingdrakes. Lightweight and often used when crafting armor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Worn Feystone",
+    "description": "A jewel that conceals considerable power within it. (Appraisal Item)",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Wyvern Bonemass",
+    "description": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Wyvern Gem",
+    "description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Claw",
+    "description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Gem",
+    "description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Horn",
+    "description": "A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Shell",
+    "description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Soulscale",
+    "description": "Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Tail",
+    "description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Veil",
+    "description": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Xeno'jiiva Wing",
+    "description": "A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Carapace",
+    "description": "Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Gem",
+    "description": "A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Heat Scale",
+    "description": "Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Magma",
+    "description": "Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Pleura",
+    "description": "Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  },
+  {
+    "name": "Zorah Magdaros Ridge",
+    "description": "Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",
+    "buy": 0,
+    "sell": 0,
+    "carry": 0,
+    "rarity": 0
+  }
+]
